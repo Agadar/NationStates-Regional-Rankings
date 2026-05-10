@@ -12,6 +12,10 @@ More rankings are bound to be added in the future. Suggestions are welcome.
 
 This program uses my own [NationStates API Java Wrapper](https://github.com/Agadar/NationStates-api-java-wrapper) to communicate with the NationStates API.
 
+## ⚠️ Maintenance Status
+
+This project is **no longer actively maintained** by the original author because the NationStates API calls used are undocumented and the region for which this was made no longer actively uses it.
+
 ## Screenshot
 
 ![Screenshot](https://github.com/Agadar/NationStates-Regional-Rankings/blob/master/images/Screenshot%20Regional%20Rankings%20GUI.png)
